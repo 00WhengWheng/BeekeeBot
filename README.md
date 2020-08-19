@@ -1,2 +1,2 @@
 # BeekeeBot
-A ioT autonomus robot that keep bees in mind!
+A ioT autonomus robot that keep bee in mind!
